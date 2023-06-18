@@ -1,26 +1,21 @@
-# client
+# Authorization page - User Interface
 
-## Project setup
-```
-npm install
-```
+This is a front-end side of my auth app which is linked to rest api. Made with vue including vuex.
 
-### Compiles and hot-reloads for development
+## How to run
+
+Use npm to install all needed dependencies.
+
+```bash
+npm i
 ```
+Then type:
+
+```bash
 npm run serve
 ```
+## API is provided in the other repo
+[API repo](https://github.com/SliskiPlumek/Auth-page-api/tree/main)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## How the app looks like
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-# Auth-page
-# Auth-page
