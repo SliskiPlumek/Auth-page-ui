@@ -19,3 +19,6 @@ npm run serve
 
 ## How the app looks like
 
+Starting page
+
+![Screenshot](https://github.com/SliskiPlumek/Auth-page-ui/assets/96886950/b916c5ec-676b-418f-aa19-45e52c0832e5)
